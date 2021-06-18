@@ -6,6 +6,8 @@ And second thing is that an SMS should be sent to the Deputy Plant manager when 
 
 I used Netlify to make my HTML pages work live ......
 
+Project Documentation - https://youthful-mcclintock-352665.netlify.app/
+
 Door Control Application live link - https://wizardly-saha-0f5a3a.netlify.app/
 
 Temperature control Application live link - https://distracted-ride-bb8eb7.netlify.app/
